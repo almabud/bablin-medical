@@ -28,8 +28,31 @@ This document answers common short-note questions from **Bailey & Love's Short P
 
 *Conclusion:* Bipolar diathermy provides precise, localized coagulation with reduced risk of collateral damage compared to monopolar techniques. When used with proper settings and attention to safety protocols, it is an invaluable tool for achieving hemostasis in areas where protecting surrounding tissue is critical.
 
+3. **Brachytherapy (January, 2011)**
 
-3. **Disseminated Intravascular Coagulation (January, 2009)**
+**Question:** Discuss brachytherapy.
+
+**Answer**
+
+*Introduction:* Brachytherapy is a form of internal radiation therapy where radioactive sources are positioned within or near the tumor, concentrating dose on malignant tissue.
+
+*Definition and Types:* Techniques include intracavitary, interstitial, and surface applications using temporary or permanent implants with low- or high-dose rates.
+
+*Indications:* It treats localized cancers such as cervical, prostate, breast, and selected head and neck tumors.
+
+*Technique:* Under imaging guidance, applicators or needles are placed into the tumor and loaded with isotopes like iridium-192 or iodine-125 for a prescribed time. Treatment planning optimizes dose distribution.
+
+*Advantages:* Localized delivery permits higher radiation doses with minimal exposure to surrounding organs, shortening overall treatment duration.
+
+*Complications:* Potential problems include tissue necrosis, ulceration, fistula formation, strictures, or rarely secondary malignancies.
+
+*Postoperative care:* Analgesia, monitoring of insertion sites, and radiation safety precautions are needed until sources are removed or decay. Regular follow-up assesses response and late effects.
+
+*Evidence Base:* Randomized trials demonstrate improved control and survival in gynecologic and prostate cancers when brachytherapy complements external beam radiotherapy.
+
+*Conclusion:* With careful planning and specialist expertise, brachytherapy offers effective, organ-sparing therapy for many localized cancers.
+
+4. **Disseminated Intravascular Coagulation (January, 2009)**
 
 **Question:** What is disseminated intravascular coagulation and how is it managed?
 
@@ -42,7 +65,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* DIC requires prompt diagnosis and a multifaceted approach targeting the underlying cause while supporting coagulation. Timely intervention can prevent catastrophic bleeding or irreversible organ damage. A high index of suspicion, particularly in high-risk settings like trauma and sepsis, allows surgeons to initiate treatment early and improve patient outcomes.
 
 
-4. **Pressure sore (July, 2008)**
+5. **Pressure sore (July, 2008)**
 
 **Question:** Discuss pressure sores and their management.
 
@@ -55,7 +78,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Prevention remains the cornerstone in managing pressure sores. Early recognition of risk factors, diligent nursing care, and appropriate use of support surfaces can avert these often devastating lesions. When ulcers do occur, a structured approach that addresses pressure relief, wound care, infection control, and nutritional support offers the best chance of healing and reduces the risk of recurrence.
 
 
-5. **Multiple discharging sinus in axilla (July, 2008)**
+6. **Multiple discharging sinus in axilla (July, 2008)**
 
 **Question:** Explain the causes and treatment of multiple discharging sinuses in the axilla.
 
@@ -68,7 +91,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Multiple axillary sinuses are most commonly due to hidradenitis suppurativa. Effective treatment combines medical therapy for acute inflammation with surgical excision for chronic, scarred disease. Early recognition and comprehensive management can significantly improve quality of life and limit disability.
 
 
-6. **Necrotizing fasciitis (July, 2008)**
+7. **Necrotizing fasciitis (July, 2008)**
 
 **Question:** What is necrotizing fasciitis and how is it managed?
 
@@ -81,7 +104,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Rapid recognition and prompt surgical intervention, combined with broad-spectrum antibiotics and intensive support, are vital to survival in necrotizing fasciitis. Delays in debridement substantially increase mortality, underscoring the need for high clinical suspicion and decisive management.
 
 
-7. **Sentinel node (July, 2008)**
+8. **Sentinel node (July, 2008)**
 
 **Question:** Define a sentinel lymph node and its role in cancer surgery.
 
@@ -94,7 +117,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Sentinel node biopsy is a valuable tool for staging and guiding treatment in many cancers. By focusing on the first draining node, surgeons can obtain crucial prognostic information while sparing patients the complications of more radical surgery when it is not necessary.
 
 
-8. **Problems of surgery in an obese patient (January, 2008)**
+9. **Problems of surgery in an obese patient (January, 2008)**
 
 **Question:** Enumerate the problems associated with operating on an obese patient.
 
@@ -103,7 +126,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Introduction:* Obesity is a growing health issue worldwide and presents unique challenges in the perioperative period. Bailey & Love notes that obesity complicates nearly every aspect of surgical care, from airway management to postoperative recovery. Understanding these challenges allows the surgical team to plan appropriately and mitigate risks.
 
 *Main Content:* Preoperatively, obese patients often have associated comorbidities such as diabetes, hypertension, and obstructive sleep apnea, which increase perioperative risk. Anesthetic induction may be difficult due to limited neck mobility and excess soft tissue, making airway management challenging. Venous access can be problematic, and patient positioning requires additional care to prevent nerve compression and pressure injuries. Intraoperatively, thick adipose layers obscure anatomical landmarks, prolonging surgical time and potentially increasing blood loss. Laparoscopic procedures may require higher insufflation pressures and longer instruments. Obesity also predisposes to thromboembolic events, so careful prophylaxis with compression stockings and pharmacologic anticoagulation is essential. Postoperatively, wound complications such as infection, dehiscence, and incisional hernia are more common due to poor vascularity of adipose tissue and increased tension on suture lines. Respiratory complications are heightened because decreased lung volumes and obstructive sleep apnea lead to hypoventilation and atelectasis. Mobilization is often delayed, exacerbating risk of deep vein thrombosis and pulmonary embolism. Dosing of medications, particularly anesthetics and antibiotics, must consider ideal versus total body weight. Specialized bariatric equipment, including wide operating tables, longer retractors, and imaging devices, may be required.
-9. **Surgical ethics (January, 2008)**
+10. **Surgical ethics (January, 2008)**
 
 **Question:** Summarize the key principles of surgical ethics.
 
@@ -116,7 +139,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Adherence to ethical principles fosters trust, ensures patient safety, and underpins the reputation of the surgical profession.
 
 
-10. **Pain palliation in cancer patient (January, 2008)**
+11. **Pain palliation in cancer patient (January, 2008)**
 
 **Question:** Describe the approach to pain palliation in a cancer patient.
 
@@ -129,7 +152,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* A systematic, multidisciplinary approach is crucial for optimal pain palliation, respecting patient preferences and balancing efficacy with side effects.
 
 
-11. **Post operative pulmonary complications (July, 2007)**
+12. **Post operative pulmonary complications (July, 2007)**
 
 **Question:** List common postoperative pulmonary complications and preventive measures.
 
@@ -142,7 +165,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* A proactive approach combining preoperative optimization and vigilant postoperative care is essential to minimize pulmonary complications.
 
 
-12. **ARDS (July, 2007)**
+13. **ARDS (July, 2007)**
 
 **Question:** Outline acute respiratory distress syndrome (ARDS) and its management.
 
@@ -155,7 +178,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Early recognition and lung-protective ventilation strategies are central to improving outcomes in ARDS patients.
 
 
-13. **Rational use of antibiotics (July, 2007)**
+14. **Rational use of antibiotics (July, 2007)**
 
 **Question:** Describe the principles of rational antibiotic use.
 
@@ -168,7 +191,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Following evidence-based guidelines for antibiotic selection and duration preserves effectiveness and safeguards patient health.
 
 
-14. **ARDS (July, 2007)**
+15. **ARDS (July, 2007)**
 
 **Question:** Outline acute respiratory distress syndrome (ARDS) and its management.
 
@@ -181,7 +204,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* The principles of early recognition and lung-protective strategies remain central to improving survival in ARDS.
 
 
-15. **Rational use of antibiotics (July, 2007)**
+16. **Rational use of antibiotics (July, 2007)**
 
 **Question:** Summarize principles for responsible antibiotic therapy.
 
@@ -194,7 +217,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Careful selection and stewardship of antibiotics maintain their effectiveness and reduce complications.
 
 
-16. **Post operative pulmonary complications (July, 2007)**
+17. **Post operative pulmonary complications (July, 2007)**
 
 **Question:** Briefly discuss postoperative pulmonary complications and their prevention.
 
@@ -207,7 +230,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Implementing preventive measures from the preoperative stage through recovery minimizes pulmonary morbidity.
 
 
-17. **ARDS (July, 2007)**
+18. **ARDS (July, 2007)**
 
 **Question:** Summarize acute respiratory distress syndrome.
 
@@ -220,7 +243,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Early and aggressive supportive care offers the best chance for recovery in ARDS.
 
 
-18. **Rational use of antibiotics (July, 2007)**
+19. **Rational use of antibiotics (July, 2007)**
 
 **Question:** Outline measures for rational antibiotic usage.
 
@@ -233,7 +256,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Thoughtful antibiotic prescribing safeguards patient outcomes and public health.
 
 
-19. **Limitations of minimal access surgery (January, 2007)**
+20. **Limitations of minimal access surgery (January, 2007)**
 
 **Question:** Discuss the limitations of minimally invasive surgery.
 
@@ -246,7 +269,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* While minimally invasive surgery has revolutionized many operations, understanding its boundaries ensures patient safety and optimal results.
 
 
-20. **Trophic ulcer (January, 2007)**
+21. **Trophic ulcer (January, 2007)**
 
 **Question:** What is a trophic ulcer and how is it treated?
 
@@ -259,7 +282,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Preventive measures and diligent wound care are central to successful management of trophic ulcers.
 
 
-21. **TPN (January, 2007)**
+22. **TPN (January, 2007)**
 
 **Question:** Define total parenteral nutrition (TPN) and state its indications.
 
@@ -272,7 +295,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* TPN is lifesaving when enteral nutrition is impossible but requires meticulous management to avoid serious complications.
 
 
-22. **Surgical drainage (January, 2007)**
+23. **Surgical drainage (January, 2007)**
 
 **Question:** Discuss the principles and methods of surgical drainage.
 
@@ -285,7 +308,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Appropriate selection and timely removal of drains help prevent complications and support postoperative recovery.
 
 
-23. **Safety measures in using electrocautery (January, 2007)**
+24. **Safety measures in using electrocautery (January, 2007)**
 
 **Question:** What safety precautions should be observed when using electrocautery?
 
@@ -298,7 +321,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Following established safety protocols ensures effective and hazard-free use of electrocautery.
 
 
-24. **Decubitus ulcer (July, 2006)**
+25. **Decubitus ulcer (July, 2006)**
 
 **Question:** Describe decubitus ulcers and their prevention.
 
@@ -311,7 +334,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Preventive measures are more effective than treatment, emphasizing the importance of nursing care and patient mobility.
 
 
-25. **Deep vein thrombosis (July, 2006)**
+26. **Deep vein thrombosis (July, 2006)**
 
 **Question:** Outline the prevention and management of deep vein thrombosis (DVT).
 
@@ -324,7 +347,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Vigilant prophylaxis and prompt treatment of DVT reduce morbidity and prevent potentially fatal embolic events.
 
 
-26. **Frozen section biopsy (July, 2006)**
+27. **Frozen section biopsy (July, 2006)**
 
 **Question:** What is a frozen section biopsy and when is it used?
 
@@ -337,7 +360,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Frozen section biopsy aids in immediate decision-making during surgery, enhancing oncologic accuracy.
 
 
-27. **Endoscopic therapeutic procedures (July, 2006)**
+28. **Endoscopic therapeutic procedures (July, 2006)**
 
 **Question:** Give examples of therapeutic procedures performed endoscopically.
 
@@ -350,7 +373,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Therapeutic endoscopy is integral to modern surgery, offering minimally invasive options for a range of conditions.
 
 
-28. **Documentation in surgery (July, 2006)**
+29. **Documentation in surgery (July, 2006)**
 
 **Question:** Explain the importance of proper documentation in surgical practice.
 
@@ -363,7 +386,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Comprehensive, timely notes are a professional responsibility that support effective clinical care and legal accountability.
 
 
-29. **Role of ultrasonography in acute abdomen (January, 2006)**
+30. **Role of ultrasonography in acute abdomen (January, 2006)**
 
 **Question:** Describe how ultrasonography aids in evaluating the acute abdomen.
 
@@ -376,7 +399,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Ultrasonography provides rapid, non-invasive information that guides management of the acute abdomen.
 
 
-30. **Post operative pain management (January, 2006)**
+31. **Post operative pain management (January, 2006)**
 
 **Question:** Outline methods for managing postoperative pain.
 
@@ -389,7 +412,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Tailoring analgesic strategies to each patient ensures optimal recovery and reduces postoperative morbidity.
 
 
-31. **Parenteral nutrition (January, 2006)**
+32. **Parenteral nutrition (January, 2006)**
 
 **Question:** Discuss indications and complications of parenteral nutrition.
 
@@ -402,7 +425,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Parenteral nutrition is lifesaving in selected patients but demands close monitoring to avoid serious complications.
 
 
-32. **Choice of suture materials (January, 2006)**
+33. **Choice of suture materials (January, 2006)**
 
 **Question:** What factors guide the choice of suture materials in surgery?
 
@@ -415,7 +438,7 @@ This document answers common short-note questions from **Bailey & Love's Short P
 *Conclusion:* Matching suture characteristics to the tissue and procedure promotes secure closure and minimizes complications.
 
 
-33. **Hospital waste management (January, 2006)**
+34. **Hospital waste management (January, 2006)**
 
 **Question:** Briefly describe the principles of hospital waste management.
 
