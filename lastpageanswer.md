@@ -46,23 +46,34 @@ This document answers common short-note questions from **Bailey & Love's Short P
 
 **Answer**
 
-*Introduction:* Brachytherapy is a form of internal radiation therapy where radioactive sources are positioned within or near the tumor, concentrating dose on malignant tissue.
-
-*Definition and Types:* Techniques include intracavitary, interstitial, and surface applications using temporary or permanent implants with low- or high-dose rates.
-
-*Indications:* It treats localized cancers such as cervical, prostate, breast, and selected head and neck tumors.
-
-*Technique:* Under imaging guidance, applicators or needles are placed into the tumor and loaded with isotopes like iridium-192 or iodine-125 for a prescribed time. Treatment planning optimizes dose distribution.
-
-*Advantages:* Localized delivery permits higher radiation doses with minimal exposure to surrounding organs, shortening overall treatment duration.
-
-*Complications:* Potential problems include tissue necrosis, ulceration, fistula formation, strictures, or rarely secondary malignancies.
-
-*Postoperative care:* Analgesia, monitoring of insertion sites, and radiation safety precautions are needed until sources are removed or decay. Regular follow-up assesses response and late effects.
-
-*Evidence Base:* Randomized trials demonstrate improved control and survival in gynecologic and prostate cancers when brachytherapy complements external beam radiotherapy.
-
-*Conclusion:* With careful planning and specialist expertise, brachytherapy offers effective, organ-sparing therapy for many localized cancers.
+*Introduction:
+  - Form of internal radiation placing sources within or near tumor
+*Definition and Types:
+  - Intracavitary and interstitial implants
+  - Surface molds or plaques for superficial lesions
+  - High-dose-rate temporary or low-dose-rate permanent
+*Indications:
+  - Localized cervical and prostate cancers
+  - Selected breast, head and neck, or skin tumors
+*Technique:
+  - Image-guided placement of applicators or seeds
+  - 3D treatment planning ensures dose conformality
+  - Afterloading devices reduce staff radiation exposure
+*Advantages:
+  - Delivers high tumor dose with minimal surrounding damage
+  - Short overall treatment duration
+*Complications:
+  - Local necrosis, ulceration, or fistula
+  - Rarely, secondary malignancy
+*Postoperative care:
+  - Provide analgesia and monitor insertion sites
+  - Follow radiation safety until sources removed
+  - Schedule follow-up imaging and assessment
+*Evidence Base:
+  - Trials show better control for cervical and prostate cancers
+  - Supported by radiation oncology guidelines
+*Conclusion:
+  - With careful planning, brachytherapy offers effective, organ-sparing therapy
 
 4. **Disseminated Intravascular Coagulation (January, 2009)**
 
